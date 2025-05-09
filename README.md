@@ -60,5 +60,54 @@ Este proyecto automatiza la gestión de tareas, hábitos, metas, lectura y sueñ
 
 ---
 
+## 📸 Capturas del proyecto
+
+### 🧠 Consejos motivacionales
+![Consejos](images/Consejos.png)
+
+### 🔁 Hábitos positivos y negativos
+![Hábitos positivos y negativos](images/Habitos-positivos-negativos.png)
+
+### 📊 Informe histórico de hábitos
+![Informe histórico hábitos](images/Informe-historico-habitos.png)
+
+### 📝 Agregar tarea diaria
+![Agregar tarea](images/Agregar-tarea.png)
+
+### 📅 Duplicar tareas anteriores
+![Duplicar tareas](images/Duplicar-tareas.png)
+
+### ✅ Tareas diarias 
+![Tareas diarias](images/Tareas-diarias2.png)
+
+### 📖 Agregar libro nuevo
+![Agregar libro](images/Agregar-libro.png)
+
+### 📚 Tabla de control de lectura
+![Control lectura](images/Control-lectura.png)
+
+### 📅 ¿Cuánto leíste hoy?
+![¿Cuánto leíste hoy?](images/Cuanto-leiste.png)
+
+### 🎯 Objetivos mensuales
+![Objetivos mensuales](images/Objetivos-mensuales.png)
+
+### 🏆 Objetivos anuales
+![Objetivos anuales](images/Objetivos-anuales.png)
+
+### 📂 Historial de tareas diarias
+![Historial tareas](images/Historial-tareas.png)
+
+### 📅 Historial de objetivos cumplidos y pendientes
+![Historial objetivos](images/Historial-objetivos.png)
+
+### 🌙 Agregar horas de sueño
+![Agregar hora de sueño](images/Agregar-hora-sueño.png)
+
+### 😴 Control de sueño + gráfico
+![Control de sueño](images/Control-sueño.png)
+
+---
+
 💬 Si te interesa usar o ver una demo de esta app, ¡no dudes en escribirme o revisar el código/documentación!
 
