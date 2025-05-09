@@ -1,7 +1,6 @@
-# App-de-tareas
-# 🧠 Tu Mejor Versión – App de productividad personal
+# 🧠 App de productividad personal
 
-Aplicación desarrollada en **Retool** y conectada a **PostgreSQL** a través de **Supabase**, pensada para ayudarte a dejar la procrastinación, construir buenos hábitos, organizar tu día y alcanzar objetivos a largo plazo.  
+Aplicación desarrollada en **Retool** y conectada a **PostgreSQL**, pensada para ayudarte a dejar la procrastinación, construir buenos hábitos, organizar tu día y alcanzar objetivos a largo plazo.  
 Este proyecto automatiza la gestión de tareas, hábitos, metas, lectura y sueño, con visualización de datos en tiempo real.
 
 ---
@@ -58,14 +57,6 @@ Este proyecto automatiza la gestión de tareas, hábitos, metas, lectura y sueñ
 - **SQL** – Consultas dinámicas, filtros y generación de gráficos
 - **JavaScript** – Automatización y validaciones internas
 - **Moment.js** – Manejo y formateo de fechas
-
----
-
-## 📸 Capturas del proyecto
-
-_Agrega aquí imágenes mostrando los módulos mencionados: hábitos, tareas, objetivos, lectura, sueño, etc._
-
-```markdown
 
 ---
 
